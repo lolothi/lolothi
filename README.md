@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Laurent 👋
+Welcome to my profile ! 
+
+🔭 I’m currently working at Github as a full-stack developper
+
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-thillou-developpeur-informatique-fullstack-gtb/)
 
 <!--
 **lolothi/lolothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
